@@ -1,3 +1,6 @@
+down load code blocks version mingw32-setup -> http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows
+install code blocks
+
 open a gui project
 
 go to project -> build options -> in project name->search directories
