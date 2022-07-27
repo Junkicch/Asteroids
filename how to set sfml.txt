@@ -1,0 +1,14 @@
+open a gui project
+
+go to project -> build options -> in project name->search directories
+in compiler tab add sfml/include path
+in linker tab add sfml/lib path
+
+in link libraries add in order
+graphics path.a -> window path.a -> system.a path
+
+in debug name -> linker settings -> link libraries add in order
+graphics-d.a path -> window-d.a path -> system-d.a path
+
+in release name -> linker settings -> link libraries add in order
+graphics path.a -> window.a path -> system.a path
