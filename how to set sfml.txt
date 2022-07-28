@@ -1,5 +1,8 @@
-down load code blocks version mingw32-setup -> http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows
+download code blocks version mingw32-setup -> http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows
 install code blocks
+
+download sfml version GCC 5.1.0 Code::Blocks 32bits https://www.sfml-dev.org/download/sfml/2.5.1/
+//If don't work try de MINGW 32bits version\\
 
 open a gui project
 
